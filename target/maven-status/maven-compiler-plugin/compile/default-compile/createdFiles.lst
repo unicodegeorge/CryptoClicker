@@ -1,0 +1,8 @@
+cz\zemlasoft\cryptoclicker\models\PlayerModel.class
+cz\zemlasoft\cryptoclicker\managers\ShopManager.class
+cz\zemlasoft\cryptoclicker\models\CurrencyRateModel.class
+cz\zemlasoft\cryptoclicker\ApiConf.class
+cz\zemlasoft\cryptoclicker\managers\AuthManager.class
+cz\zemlasoft\cryptoclicker\managers\PlayerManager.class
+cz\zemlasoft\cryptoclicker\models\ItemModel.class
+cz\zemlasoft\cryptoclicker\utils\CryptoUtil.class
